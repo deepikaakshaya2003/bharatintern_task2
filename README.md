@@ -1,1 +1,1 @@
-Titanic Classification
+Titanic Classification using machine learning
